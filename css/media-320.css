@@ -1,0 +1,24 @@
+@media(max-width: 320px) {
+  .header-logo {
+    max-width: 100%;
+    margin-left: 75px;
+  }
+
+
+  .footer {
+    max-width: 305px;
+  }
+
+  .footer__down {
+    max-width: 300px;
+  }
+
+
+.courses__img {
+    max-width: 289px;
+}
+
+.courses__style {
+  max-width: 300px;
+}
+}

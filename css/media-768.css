@@ -1,0 +1,16 @@
+@media(max-width:690px) {
+  .hero__img__1 {
+    display: none;
+  }
+}
+
+@media(max-width: 768px) {
+  .logo__img {
+    text-align: center;
+  }
+
+  .header__ul {
+    padding: 0;
+    margin: 0;
+  }
+}
